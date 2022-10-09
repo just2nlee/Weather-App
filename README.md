@@ -1,2 +1,8 @@
-# Weather-App
-Weather App to get the temperature and conditions of cities that you're interested in.
+# Weather-App React, Node, HTML, CSS, Javascript
+
+In the project directory, you can run:
+
+### `npm start`
+
+Runs the app in the development mode.\
+Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
